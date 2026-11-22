@@ -13,27 +13,22 @@
 ### 1. Homepage
 Introduces the Fun Travel brand and helps visitors start exploring travel plans.
 
-![Travel destination](https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=85)
 
 ### 2. Travel Plans
 Presents available travel packages with destination details, trip duration, interests, and estimated prices.
 
-![City travel destination](https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=85)
 
 ### 3. Discover Your Trip
 Visitors can filter travel plans by destination, interests, and budget to find options that match their preferences.
 
-![Travel planning](https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=85)
 
 ### 4. Shopping Cart
 Visitors can add multiple travel plans, remove selected plans, and view an estimated total before proceeding to the demo checkout.
 
-![Travel essentials](https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1200&q=85)
 
 ### 5. Contact
 A contact section gives visitors a place to find the business contact information.
 
-![Travel map and planning](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85)
 
 ## ✨ Features
 
