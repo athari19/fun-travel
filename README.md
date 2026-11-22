@@ -4,9 +4,6 @@
 
 > A lightweight front-end project built with HTML, CSS, and vanilla JavaScript.
 
-## 📸 Website Preview
-
-![Fun Travel travel inspiration](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=85)
 
 ## 🌍 Website Sections
 
